@@ -1,0 +1,2 @@
+OMP_NUM_THREADS=3
+Running: FastreTreeMP -topm 1.0 -close 0.75 -refresh 0.8 -2nd -log logfile.txt -nt -sprlength 10 -nni 10 -spr 2 -cat 20 infile > fasttree_result.tre

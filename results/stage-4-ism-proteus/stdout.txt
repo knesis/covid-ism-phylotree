@@ -1,0 +1,45 @@
+mkdir: cannot create directory `/results/stage-4-ism-proteus': File exists
+Total numer of sequences in the end: 9007
+Identified 17 ISM positions
+Reference ISM: CCCCGCCCACAGGTGGG
+241,0.899019131435312,
+
+1059,0.8146822248701187,YP_009724389.1: ORF1ab polyprotein, YP_009725295.1: ORF1a polyprotein
+
+3037,0.9042335210238936,YP_009724389.1: ORF1ab polyprotein, YP_009725295.1: ORF1a polyprotein
+
+8782,0.5146164495620097,YP_009724389.1: ORF1ab polyprotein, YP_009725295.1: ORF1a polyprotein
+
+11083,0.4724148480918742,YP_009724389.1: ORF1ab polyprotein, YP_009725295.1: ORF1a polyprotein
+
+14408,0.9032287679891302,YP_009724389.1: ORF1ab polyprotein
+
+14805,0.30689303672613416,YP_009724389.1: ORF1ab polyprotein
+
+15324,0.2813736471549081,YP_009724389.1: ORF1ab polyprotein
+
+17858,0.2686162371218643,YP_009724389.1: ORF1ab polyprotein
+
+18060,0.27580237910148087,YP_009724389.1: ORF1ab polyprotein
+
+23403,0.9069325678022231,YP_009724390.1: surface glycoprotein
+
+25563,0.9137304413807437,YP_009724391.1: ORF3a protein
+
+26144,0.3114773252539513,YP_009724391.1: ORF3a protein
+
+28144,0.5089896987332738,YP_009724396.1: ORF8 protein
+
+28881,0.6600891165198279,YP_009724397.2: nucleocapsid phosphoprotein
+
+28882,0.6570355721496492,YP_009724397.2: nucleocapsid phosphoprotein
+
+28883,0.6599180501058347,YP_009724397.2: nucleocapsid phosphoprotein
+
+Unique ISMs before correction: 358
+% ISM partially corrected over ISMs with error: 0.8870967741935484
+% ISM completed corrected over ISMs with error: 0.33064516129032256
+% Subject partially corrected over subjects with error: 0.9180672268907563
+% Subject partially corrected over subjects with error: 0.3403361344537815
+Unique ISMs after error correction: 224
+Filter time is 401
