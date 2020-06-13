@@ -1,0 +1,18 @@
+Site,Nucleotide Position,Entropy,Annotation,
+1,241,0.899019131,Non-coding Region,
+2,1059,0.814682225,ORF1ab polyprotein, YP_009725295.1: ORF1a polyprotein
+3,3037,0.904233521,ORF1ab polyprotein, YP_009725295.1: ORF1a polyprotein
+4,8782,0.51461645,ORF1ab polyprotein, YP_009725295.1: ORF1a polyprotein
+5,11083,0.472414848,ORF1ab polyprotein, YP_009725295.1: ORF1a polyprotein
+6,14408,0.903228768,ORF1ab polyprotein,
+7,14805,0.306893037,ORF1ab polyprotein,
+8,15324,0.281373647,ORF1ab polyprotein,
+9,17858,0.268616237,ORF1ab polyprotein,
+10,18060,0.275802379,ORF1ab polyprotein,
+11,23403,0.906932568,S surface glycoprotein,
+12,25563,0.913730441,ORF3a protein,
+13,26144,0.311477325,ORF3a protein,
+14,28144,0.508989699,ORF8 protein,
+15,28881,0.660089117,nucleocapsid phosphoprotein,
+16,28882,0.657035572,nucleocapsid phosphoprotein,
+17,28883,0.65991805,nucleocapsid phosphoprotein,
